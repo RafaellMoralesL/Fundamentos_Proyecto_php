@@ -1,4 +1,4 @@
-_ Este proyecto es una práctica de php, el cual es un lenguaje no compilado, y por lo tanto, el realizar cambios al código y que se refleje en la ejecución es muy fácil. _
+_Este proyecto es una práctica de php, el cual es un lenguaje no compilado, y por lo tanto, el realizar cambios al código y que se refleje en la ejecución es muy fácil._
 
 ### En resumen
 `este proyecto php es un hola mundo, el cual utiliza el comando echo para mostrar información, y una imagen adjunta que aparece junto con el Hola mundo, que utiliza el comando img src, para identificar la locación del archivo de la imagen.` 

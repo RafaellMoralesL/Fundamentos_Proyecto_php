@@ -1,3 +1,5 @@
+## Proyecto PHP
+
 _Este proyecto es una práctica de php, el cual es un lenguaje no compilado, y por lo tanto, el realizar cambios al código y que se refleje en la ejecución es muy fácil._
 
 ### En resumen
@@ -21,3 +23,5 @@ Se necesitan varios pasos,
 9. Dentro del Navegador establecer conexión con la IP
 ``` Debe colocar la IP de la conexión remota y la ruta del archivo ```
 Y eso seria todo lo que se necesita realizar
+
+###### Autor: Rafael Morales Lara | 25001309@galileo.edu | Carné: 25001309
